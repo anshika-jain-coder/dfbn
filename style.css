@@ -1,0 +1,47 @@
+body{
+    background-size:cover ;
+}
+#start , #number_of_objects ,#status{
+    font-size: 18px;
+}
+ canvas
+ {
+     border: 2px solid white;
+     border-radius: 10px;
+     margin-top: 180px;
+     box-shadow: 5px 5px 5px white;
+ }
+ .copy_right_footer {
+    position: fixed;
+    color:honeydew;
+    bottom: 0;
+    width: 100%;
+    background-color:palevioletred;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
+ .heading{
+     width: 100%;
+     font-size: large;
+  
+ }
+ #ask
+{
+    font-size: 30px;
+    color: white;
+}
+
+#value
+{
+    width: 30%;
+}
+
+
+.note
+{
+    font-weight: 800;
+    font-size: 20px;
+    color: black;
+}
